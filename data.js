@@ -436,7 +436,7 @@ var APP_DATA = {
     },
     {
       "id": "9-051",
-      "name": "05.1",
+      "name": "6.6. EL PLIEGUE SERPENTEANTE DE MAYOR ESCALA",
       "levels": [
         {
           "tileSize": 256,
@@ -532,7 +532,7 @@ var APP_DATA = {
     },
     {
       "id": "11-061",
-      "name": "06.1",
+      "name": "6.6. EL PLIEGUE SERPENTEANTE DE MAYOR ESCALA",
       "levels": [
         {
           "tileSize": 256,
