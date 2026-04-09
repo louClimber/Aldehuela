@@ -117,8 +117,6 @@ data.infoHotspots.forEach(function(hotspot) {
   var element = createHomeHotspotElement(hotspot);
   scene.hotspotContainer().createHotspot(element, { yaw: hotspot.yaw, pitch: hotspot.pitch });
 });
-
-
     return {
       data: data,
       scene: scene,
@@ -495,8 +493,6 @@ function createHomeHotspotElement(hotspot) {
 
   return wrapper;
 }
-
-
 
   // Prevent touch and scroll events from reaching the parent element.
   function stopTouchAndScrollEventPropagation(element, eventList) {

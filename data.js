@@ -58,7 +58,7 @@ var APP_DATA = {
         {
           "yaw": -2.761066510487515,
           "pitch": -0.8033857776387645,
-          "url": "https://www.aytoaliaga.com/", /*cambiar*/
+          "url": "https://louclimber.github.io/Portada/", 
           "title": "Portada",
           
         }
@@ -613,7 +613,7 @@ var APP_DATA = {
         {
           "yaw": 1.5614764015664289,
           "pitch": -0.44443129686263205,
-          "url": "",
+          "url": "https://louclimber.github.io/Portada/",
           "title": "Portada",
           "text": "Text"
         }
